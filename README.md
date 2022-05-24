@@ -1,2 +1,7 @@
-# First-time-
-This is my very first time on Git 💀
+public class main
+{
+public static void main(String Args [])
+{ 
+System.out.println("First post for the very first time");
+  }
+}
